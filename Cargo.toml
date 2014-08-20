@@ -1,0 +1,10 @@
+[package]
+
+name = "Crusoe"
+version = "0.0.1"
+authors = ["João Oliveira  <hello@jxs.pt>"]
+
+[[bin]]
+
+name = "Crusoe"
+path = "src/main.rs"
